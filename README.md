@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CarolMarton
 - 👀 I’m interested in learn more about programming.
-- 🌱 I’m currently learning C language and database.
+- 🌱 I’m currently learning C language and Database.
 - 📫 How to reach me carolmarton18@gmail.com or instagram @Cah_marton
